@@ -1,7 +1,7 @@
 # Unix -mv
 
 ### What is this?
-Unix mv is just a simple implemenattion of a unix-like mv command
+Unix mv is just a simple implementation of a unix-like mv command
 
 ---
 
