@@ -6,5 +6,8 @@ Unix mv is just a simple implemenattion of a unix-like mv command
 ---
 
 ### Options
-`-i interactive mode, asks for confirmation`
-`-v visual mode, gives visual feedback on what just happened`
+``` sh
+-i interactive mode, asks for confirmation
+
+-v visual mode, gives visual feedback on what just happened
+```
