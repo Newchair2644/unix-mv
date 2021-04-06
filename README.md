@@ -1,4 +1,4 @@
-*unix mv command*
+*unix mv command-line tool*
 
 ### What is this?
 Unix mv is just a simple implementation of a unix-like mv command
